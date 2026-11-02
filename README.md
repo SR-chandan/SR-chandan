@@ -12,28 +12,21 @@
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/chandan-s-r-gowda/)
+<a href="https://www.linkedin.com/in/chandan-s-r-gowda/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30">
+</a>
+&nbsp;&nbsp;
 
-### Languages and Tools:
+<a href="https://www.instagram.com/_.chandan_gowda.__">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" height="30">
+</a>
+&nbsp;&nbsp;
 
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)](https://www.djangoproject.com/)
-[![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)](https://flask.palletsprojects.com/)
-[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-[![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/)
-[![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)](https://aws.amazon.com/)
-[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)](https://www.docker.com/)
-[![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg)](https://www.terraform.io/)
+<a href="https://github.com/SR-chandan">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="30">
+</a>
+&nbsp;&nbsp;
 
-### GitHub Stats:
-
-![Chandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SR-chandan&show_icons=true&locale=en)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=SR-chandan&show_icons=true&locale=en&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SR-chandan)`
+<a href="https://leetcode.com/chandan0302">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30">
+</a>
