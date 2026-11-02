@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Chandan S R
 
-<!--
-**SR-chandan/SR-chandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Full Stack Developer | Python Developer | AI/ML Enthusiast | Creative Designer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+- 🔭 I’m currently working on **Python Full Stack Development Projects**
+- 🌱 I’m currently learning **Python, Django, Flask, SQL, MySQL, JavaScript, and Web Development**
+- 👯 I’m looking to collaborate on **Python, AI/ML, and Full Stack Development Projects**
+- 👨‍💻 All of my projects are available at [https://github.com/SR-chandan](https://github.com/SR-chandan)
+- 💬 Ask me about **Python, Django, SQL, MySQL, HTML, CSS, JavaScript, Git, GitHub, and AI/ML**
+- 📫 How to reach me: **chandangowda0327\@gmail.com**
+- ⚡ Fun fact: **I love coding, creative designing, graphic design!**
